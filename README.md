@@ -5,6 +5,7 @@
 * Tools: Tableau Desktop (Charts, Dashboard, Storyline)
 
 ## UK Bank Customers segmentation Dashboard
+To View Live Dashboard: [Click here](https://public.tableau.com/app/profile/sneha.deshmukh7642/viz/Dashboard_customer_segmentation/Dashboard1#1)
 <img width="1649" height="795" alt="image" src="https://github.com/user-attachments/assets/9408f9b3-a70b-4036-9a9c-668b5b9157aa" />
 
 
