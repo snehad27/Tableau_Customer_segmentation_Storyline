@@ -5,7 +5,8 @@
 * Tools: Tableau Desktop (Charts, Dashboard, Storyline)
 
 ## UK Bank Customers segmentation Dashboard
-<img width="1913" height="1018" alt="image" src="https://github.com/user-attachments/assets/0c85f66d-a692-4c89-8b32-fc0168f3f685" />
+<img width="1649" height="795" alt="image" src="https://github.com/user-attachments/assets/9408f9b3-a70b-4036-9a9c-668b5b9157aa" />
+
 
 ### Storyline
 * Key Point: From England Largest number of Customer joined  throughout the year and Approx 70% of cutomer having White collar jobs.
